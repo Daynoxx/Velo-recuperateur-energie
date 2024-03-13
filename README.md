@@ -1,1 +1,1 @@
-# Voici mon site qui présente mon projet.
+# Voici mon site présentant mon projet.
